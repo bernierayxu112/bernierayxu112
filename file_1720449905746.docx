@@ -1,0 +1,1 @@
+lickThenWait("点击New Branch", 1200, 252, 5, 7)  await commonLib.moveClickThenWait("点击输入分支", 456, 400
