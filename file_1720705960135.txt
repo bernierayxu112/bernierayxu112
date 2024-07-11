@@ -1,0 +1,1 @@
+.read();  console.log(text); // 'butter'}main();// todo  1、 打不开浏览器；2、tw名字判断位置有问题；3、判断validate的
