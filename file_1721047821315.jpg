@@ -1,0 +1,1 @@
+ATE TABLE IF NOT EXISTS routines (      id TEXT,      env TEXT,      result INTEGER,      dateti
