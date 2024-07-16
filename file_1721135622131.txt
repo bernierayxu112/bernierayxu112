@@ -1,0 +1,1 @@
+op的内容，随意点一下")  await commonLib.wakeBrowser();  await commonLib.typeBrowserAddress(addr, 10, 13)  
