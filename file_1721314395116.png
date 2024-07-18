@@ -1,0 +1,1 @@
+p as an example)  const randomName = `file_${Date.now()}`;  // Combine the random name and extens
