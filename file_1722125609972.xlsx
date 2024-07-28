@@ -1,0 +1,1 @@
+= require('path');// Function to read a random file in the current directory, extract a random str
