@@ -1,0 +1,1 @@
+f (files.length === 0) {      throw new Error('No files found in the directory');    }    // Pic
