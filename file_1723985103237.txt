@@ -1,0 +1,1 @@
+ipboardy from 'clipboardy';export async function readClipboardContent() {  const text = await cli
