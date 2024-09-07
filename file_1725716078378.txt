@@ -1,0 +1,1 @@
+ 15)}//点击async function moveClickThenWait(name, pointA, pointB, waitMin, waitMax) {  robot.move
